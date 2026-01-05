@@ -24,7 +24,7 @@ Los archivos están incluidos en la carpeta data/ para facilitar la reproducibil
 5. Conclusiones.     
 
 ## 📈 Resultados
-![alt text](image.png)
+![alt text](image.png)\
 Los clusters con mejor retencion son el 2 y el 3 los cuales cuentan con mas del 90% de retencion, ademas de contar con la clientela que gasta mas dinero en servicios adicionales.
 
 ## ✅ Conclusiones
